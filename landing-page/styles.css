@@ -1,0 +1,55 @@
+body {
+    background-color: white;
+    color: #003285;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+header {
+    background-image: url("casper.jpg");
+    background-color: #30373b;
+    text-align: center;
+    padding: 5px;
+    height: 400px;
+}
+
+.logo {
+    padding: 10px;
+    width: 120px;
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header p.top-liner {
+    font-size: 15px;
+}
+
+header a.main-button {
+    margin-top: 80px;
+    padding: 15px;
+    border-radius: 1rem;
+    background-color: #003285;
+    color: white;
+    display: inline-block;
+}
+
+header p.footer-text {
+    padding: 150px;
+    display: block;
+}
+
+.testimonials {
+    text-align: center;
+
+}
+
+.reviews {
+    display: inline-block;
+    height: 250px;
+    width: 350px;
+}

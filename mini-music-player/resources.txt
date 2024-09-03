@@ -1,0 +1,3 @@
+# icons -> https://fontawesome.com/v4/icons/
+# google-fonts -> https://fonts.google.com/
+# fonts -> https://cdnjs.com/libraries/font-awesome
